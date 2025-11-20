@@ -78,23 +78,10 @@
     <section id="about">
       <h2>About Me</h2>
       <p>Hello! I'm Shubh Kalathiya (25cs029), a Computer Science Engineering student passionate about coding, embedded systems, and software development.</p>
-    </section>
-
-    <section id="projects">
-      <h2>Projects</h2>
-      <ul class="projects">
-        <li><strong>IR Sensor Array Calibration:</strong> Developed an Arduino-based project calibrating sensor arrays.</li>
-        <li><strong>Embedded Traffic Light System:</strong> Created an automated traffic light control system using microcontrollers.</li>
-        <li><strong>Portfolio Website:</strong> Built a personal website to showcase skills and projects (this website).</li>
-      </ul>
-    </section>
-
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>You can reach me via email or phone.</p>
-      <p><strong>Email:</strong> your-email@example.com</p>
+            <p><strong>Email:</strong> [shubhrk8gmail.com](url) </p>
       <p><strong>Phone Number:</strong> 25cs029</p>
     </section>
+
   </main>
 
   <footer>
